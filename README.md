@@ -1,6 +1,5 @@
 # Docker Stress
 
-
 ## Usage
 
 ```bash
